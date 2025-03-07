@@ -600,6 +600,9 @@ html, body {
 ::-webkit-scrollbar {
   display: none;
 }
+  .logo{
+  font-size: 2.1rem;
+}
 }
 
 
