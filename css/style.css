@@ -559,6 +559,28 @@ section {
     flex-direction: column;
   }
   
+    .heading {
+    font-size: 4rem;
+    margin-bottom: 6rem;
+    margin-left: 2rem;
+  }
+  .services-container{
+
+    font-size: 7rem;
+    align-items: center;
+    text-align: center;
+  }
+  .services-container h4{
+
+    font-size: 3rem;
+    align-items: center;
+    text-align: center;
+  }
+  .projects-box{
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+  }
   
 }
 
