@@ -297,6 +297,10 @@ section {
 ::-webkit-scrollbar-track {
   background-color: var(--bg-color);
 }
+html, body {
+  overflow-x: hidden; /* Bloque le défilement horizontal */
+  touch-action: manipulation; /* Réduit les détections de gestes inutiles */
+}
 /*grand titres*/
 .heading {
   justify-content: center;
@@ -593,8 +597,8 @@ section {
   align-items: center;
   text-align: center; 
 }
-.root{
-  background-color: contain;
+::-webkit-scrollbar {
+  display: none;
 }
 }
 
