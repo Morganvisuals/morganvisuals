@@ -593,10 +593,9 @@ section {
   align-items: center;
   text-align: center; 
 }
-  .body{
-  background-size: contain;
+.root{
+  background-color: contain;
 }
-  
 }
 
 
