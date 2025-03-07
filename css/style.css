@@ -576,12 +576,13 @@ section {
     align-items: center;
     text-align: center;
   }
-  .projects-box{
+  .projects .project-card{
     align-items: center;
     text-align: center;
     flex-direction: column;
+    margin-right: 5rem;
+    
   }
-  
 }
 
 
