@@ -532,9 +532,12 @@ section {
     align-items: center;
     text-align: center;
   }
+  .home-content h1 {
+    font-size: 5rem; /* Ajustement de la taille du texte */
+  }
 
   .home-img img {
-    width: 56vw;
+    width: 60vw; /* Agrandir l'image pour occuper plus d'espace */
   }
 
   .about {
@@ -554,6 +557,27 @@ section {
 
   .contact form {
     flex-direction: column;
+  }
+
+
+  .btn-group {
+    flex-direction: column;
+    align-items: center;
+  }
+/* Boutons */
+  .btn {
+    width: 80%; /* Pour que les boutons soient plus larges et mieux centrés */
+    text-align: center;
+  }
+
+  .header {
+    padding: 2rem 5%; /* Réduction du padding pour éviter que le menu soit trop large */
+  }
+
+
+  #menu-icon {
+    display: block;
+    cursor: pointer;
   }
   
 }
