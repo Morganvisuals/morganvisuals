@@ -568,6 +568,10 @@ html, body {
     margin-bottom: 6rem;
     margin-left: 1rem;
   }
+   .services-box{
+    align-items: center;
+    margin-right: 3rem;
+  }
   .services-container{
 
     font-size: 7rem;
