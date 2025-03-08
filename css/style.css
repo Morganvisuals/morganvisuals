@@ -566,7 +566,7 @@ html, body {
     .heading {
     font-size: 4rem;
     margin-bottom: 6rem;
-    margin-left: 1.5rem;
+    margin-left: 1rem;
   }
   .services-container{
 
@@ -603,6 +603,7 @@ html, body {
   .logo{
   font-size: 2rem;
 }
+  
 }
 
 
