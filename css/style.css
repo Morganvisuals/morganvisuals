@@ -308,6 +308,12 @@ html, body {
   font-size: 7rem;
   margin: 5rem 0;
 }
+.heading2 {
+  justify-content: center;
+  text-align: center;
+  font-size: 7rem;
+  margin: 5rem 0;
+}
 /*Compétences*/
 .services {
 
@@ -567,6 +573,11 @@ html, body {
     font-size: 4rem;
     margin-bottom: 6rem;
     margin-right: 1.5rem;
+  }
+  .heading2 {
+    font-size: 4rem;
+    margin-bottom: 6rem;
+    margin-left: 1rem;
   }
    .services-box{
     align-items: center;
